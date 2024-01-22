@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Create Student</title>
+</head>
+<body>
+<h2>Create Student</h2>
+<form action="/welcome/createAnswer" method="post">
+  <input type="text" name="test_id" placeholder="Enter test id" />
+  <input type="text" name="student_id" placeholder="Enter student id" />
+  <input type="text" name="answer" placeholder="Enter answer" />
+  <button type="submit">Submit</button>
+</form>
+
+<p>
+  <a href="../home.html" th:href="@{/}">Return to home</a>
+</p>
+</body>
+</html>

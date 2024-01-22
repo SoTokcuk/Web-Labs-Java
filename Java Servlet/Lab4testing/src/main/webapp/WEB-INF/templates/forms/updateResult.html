@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Input Form</title>
+</head>
+<body>
+    <h2>Input Form</h2>
+    <form action="/welcome/updateResult" method="post">
+        <input type="text" name="answer_id" placeholder="Enter answer id" />
+        <input type="text" name="result" placeholder="Enter new result" />
+        <button type="submit">Submit</button>
+    </form>
+
+    <p>
+        <a href="../home.html" th:href="@{/}">Return to home</a>
+    </p>
+</body>
+</html>
