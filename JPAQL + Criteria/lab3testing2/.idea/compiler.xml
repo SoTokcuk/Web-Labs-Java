@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processor name="org.hibernate.jpamodelgen.JPAMetaModelEntityProcessor" />
+        <module name="lab3yanchuk" />
+        <module name="lab3yanchukPART1" />
+        <module name="lab3yanchukPART2" />
+        <module name="lab3testing" />
+        <module name="lab3testing2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
