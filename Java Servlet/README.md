@@ -1,2 +1,0 @@
-# Java Servlet
-### In this lab, DAO classes written with JPAQL were used to retrieve data from the database and then place it on the page. Appropriate controller classes were written to easily utilize the methods from the DAO.
