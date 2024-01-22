@@ -1,0 +1,2 @@
+# JDBC
+### This lab demonstrates working with JDBC. A `ConnectionPool` class was written that accesses the database (running on `ConcurrentLinkedQueue`). To create instances of the `Test` class, the Builder generating pattern is used. For collection management, the `TestCollection` and `TestCollectionManager` classes are used. There are also corresponding database classes-entities, and for each of them, a separate DAO-class is written. A logger is used to view exceptions.

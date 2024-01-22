@@ -1,0 +1,52 @@
+2023-11-23 17:59:14 INFO  QuestionDAO:66 - Retrieving questions by test ID: 1
+2023-11-23 17:59:14 INFO  QuestionDAO:78 - Questions retrieved successfully by test ID: 1
+2023-11-23 17:59:15 INFO  AnswerDAO:31 - Creating answer - Test ID: 1, Student ID: 1, Answer: New answer
+2023-11-23 17:59:15 INFO  AnswerDAO:38 - Answer created successfully - Test ID: 1, Student ID: 1, Answer: New answer
+2023-11-23 17:59:15 INFO  AnswerDAO:140 - Getting student answers - Name: John Doe, Test ID: 1
+2023-11-23 17:59:15 INFO  AnswerDAO:152 - Student answers retrieved successfully - Name: John Doe, Test ID: 1
+2023-11-23 17:59:15 INFO  AnswerDAO:113 - Updating answer - Answer ID: 1, Answer: Changed answer 1000
+2023-11-23 17:59:15 INFO  AnswerDAO:119 - Answer updated successfully - Answer ID: 1, Answer: Changed answer 1000
+2023-11-23 17:59:15 INFO  AnswerDAO:140 - Getting student answers - Name: John Doe, Test ID: 1
+2023-11-23 17:59:15 INFO  AnswerDAO:152 - Student answers retrieved successfully - Name: John Doe, Test ID: 1
+2023-11-23 17:59:15 INFO  StudentDAO:48 - Setting test for student: John Doe - Test ID: 1
+2023-11-23 17:59:15 INFO  StudentDAO:54 - Test set successfully for student: John Doe - Test ID: 1
+2023-11-23 17:59:15 INFO  QuestionDAO:66 - Retrieving questions by test ID: 1
+2023-11-23 17:59:15 INFO  QuestionDAO:78 - Questions retrieved successfully by test ID: 1
+2023-11-23 17:59:15 INFO  TestDAO:53 - Retrieving tests
+2023-11-23 17:59:15 INFO  TestDAO:64 - Tests retrieved successfully
+2023-11-23 17:59:15 INFO  QuestionDAO:32 - Retrieving questions by subject: Math
+2023-11-23 17:59:15 INFO  QuestionDAO:44 - Questions retrieved successfully by subject: Math
+2023-11-23 17:59:15 INFO  AnswerDAO:140 - Getting student answers - Name: John Doe, Test ID: 1
+2023-11-23 17:59:15 INFO  AnswerDAO:152 - Student answers retrieved successfully - Name: John Doe, Test ID: 1
+2023-11-23 17:59:15 INFO  AnswerDAO:88 - Updating result - Answer ID: 2, Result: correct
+2023-11-23 17:59:15 INFO  AnswerDAO:94 - Result updated successfully - Answer ID: 2, Result: correct
+2023-11-23 17:59:15 INFO  AnswerDAO:88 - Updating result - Answer ID: 3, Result: correct
+2023-11-23 17:59:15 INFO  AnswerDAO:94 - Result updated successfully - Answer ID: 3, Result: correct
+2023-11-23 17:59:15 INFO  AnswerDAO:59 - Counting right answers - Name: John Doe, Test ID: 1
+2023-11-23 17:59:15 INFO  AnswerDAO:68 - Right answers counted successfully - Name: John Doe, Test ID: 1, Count: 3
+2023-11-23 18:02:35 INFO  QuestionDAO:66 - Retrieving questions by test ID: 1
+2023-11-23 18:02:35 INFO  QuestionDAO:78 - Questions retrieved successfully by test ID: 1
+2023-11-23 18:02:35 INFO  AnswerDAO:31 - Creating answer - Test ID: 1, Student ID: 1, Answer: New answer
+2023-11-23 18:02:35 INFO  AnswerDAO:38 - Answer created successfully - Test ID: 1, Student ID: 1, Answer: New answer
+2023-11-23 18:02:35 INFO  AnswerDAO:140 - Getting student answers - Name: John Doe, Test ID: 1
+2023-11-23 18:02:35 INFO  AnswerDAO:152 - Student answers retrieved successfully - Name: John Doe, Test ID: 1
+2023-11-23 18:02:35 INFO  AnswerDAO:113 - Updating answer - Answer ID: 1, Answer: Changed answer 1000
+2023-11-23 18:02:35 INFO  AnswerDAO:119 - Answer updated successfully - Answer ID: 1, Answer: Changed answer 1000
+2023-11-23 18:02:35 INFO  AnswerDAO:140 - Getting student answers - Name: John Doe, Test ID: 1
+2023-11-23 18:02:35 INFO  AnswerDAO:152 - Student answers retrieved successfully - Name: John Doe, Test ID: 1
+2023-11-23 18:02:35 INFO  StudentDAO:48 - Setting test for student: John Doe - Test ID: 1
+2023-11-23 18:02:35 INFO  StudentDAO:54 - Test set successfully for student: John Doe - Test ID: 1
+2023-11-23 18:02:35 INFO  QuestionDAO:66 - Retrieving questions by test ID: 1
+2023-11-23 18:02:35 INFO  QuestionDAO:78 - Questions retrieved successfully by test ID: 1
+2023-11-23 18:02:36 INFO  TestDAO:53 - Retrieving tests
+2023-11-23 18:02:36 INFO  TestDAO:64 - Tests retrieved successfully
+2023-11-23 18:02:36 INFO  QuestionDAO:32 - Retrieving questions by subject: Math
+2023-11-23 18:02:36 INFO  QuestionDAO:44 - Questions retrieved successfully by subject: Math
+2023-11-23 18:02:36 INFO  AnswerDAO:140 - Getting student answers - Name: John Doe, Test ID: 1
+2023-11-23 18:02:36 INFO  AnswerDAO:152 - Student answers retrieved successfully - Name: John Doe, Test ID: 1
+2023-11-23 18:02:36 INFO  AnswerDAO:88 - Updating result - Answer ID: 2, Result: correct
+2023-11-23 18:02:36 INFO  AnswerDAO:94 - Result updated successfully - Answer ID: 2, Result: correct
+2023-11-23 18:02:36 INFO  AnswerDAO:88 - Updating result - Answer ID: 3, Result: correct
+2023-11-23 18:02:36 INFO  AnswerDAO:94 - Result updated successfully - Answer ID: 3, Result: correct
+2023-11-23 18:02:36 INFO  AnswerDAO:59 - Counting right answers - Name: John Doe, Test ID: 1
+2023-11-23 18:02:36 INFO  AnswerDAO:68 - Right answers counted successfully - Name: John Doe, Test ID: 1, Count: 3
